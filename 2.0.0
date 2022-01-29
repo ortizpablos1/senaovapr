@@ -1,0 +1,8 @@
++ vue-plugin-load-script@2.1.0
+updated 1 package and audited 1335 packages in 12.264s
+
+90 packages are looking for funding
+  run `npm fund` for details
+
+found 30 vulnerabilities (2 low, 20 moderate, 8 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
